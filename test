@@ -98,7 +98,7 @@ st.markdown(
     h1,
     h2,
     h3 {
-        color: var(--black) !important;
+        color: var(--yellow) !important;
     }
 
     h1 {
